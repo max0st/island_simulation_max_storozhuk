@@ -1,4 +1,4 @@
 package organisms.animals.omnivores;
 
-public class Bear {
+public class Bear extends Omnivore{
 }

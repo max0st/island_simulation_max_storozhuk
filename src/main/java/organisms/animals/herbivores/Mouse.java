@@ -1,7 +1,7 @@
-package organisms.animals.predators;
+package organisms.animals.herbivores;
 
 import common.annotations.SupportsCatterpillarEating;
 
 @SupportsCatterpillarEating
-public class Fox extends Predator {
+public class Mouse extends Herbivore{
 }

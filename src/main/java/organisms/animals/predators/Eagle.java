@@ -1,4 +1,6 @@
 package organisms.animals.predators;
 
-public class Eagle {
+import organisms.interfaces.Flyable;
+
+public class Eagle extends Predator implements Flyable {
 }

@@ -1,4 +1,7 @@
 package organisms.animals.omnivores;
 
-public class Boar {
+import common.annotations.SupportsCatterpillarEating;
+
+@SupportsCatterpillarEating
+public class Boar extends Omnivore {
 }

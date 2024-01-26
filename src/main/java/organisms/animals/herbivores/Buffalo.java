@@ -1,6 +1,4 @@
 package organisms.animals.herbivores;
 
-import organisms.enums.Gender;
-
-public class Buffalo {
+public class Buffalo extends Herbivore{
 }

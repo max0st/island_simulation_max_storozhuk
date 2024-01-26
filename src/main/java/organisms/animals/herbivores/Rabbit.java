@@ -1,4 +1,4 @@
 package organisms.animals.herbivores;
 
-public class Rabbit {
+public class Rabbit extends Herbivore {
 }

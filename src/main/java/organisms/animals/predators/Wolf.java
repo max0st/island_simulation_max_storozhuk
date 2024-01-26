@@ -1,4 +1,4 @@
 package organisms.animals.predators;
 
-public class Wolf {
+public class Wolf extends Predator {
 }
