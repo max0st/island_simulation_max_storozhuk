@@ -1,0 +1,25 @@
+weight: 8
+maxAnimalsPerCell: 30
+movementSpeed: 2
+foodRequiredForSaturation: 2.0
+maxAge: 25
+maxPackNumber: 0
+chanceToEat:
+  Lynx: 0
+  Wolf: 0
+  Eagle: 0
+  Boa: 0
+  Crow: 0
+  Boar: 0
+  Bear: 0
+  Sheep: 0
+  Rabbit: 70
+  Mouse: 90
+  Horse: 0
+  Hoatzin: 0
+  Goat: 0
+  Duck: 60
+  Deer: 0
+  Caterpillar: 40
+  Buffalo: 0
+  Plant:
