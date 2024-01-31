@@ -1,9 +1,7 @@
-weight: 6
+weight: 6.0
 maxAnimalsPerCell: 20
 movementSpeed: 3
 foodRequiredForSaturation: 1.0
-maxAge: 75
-maxPackNumber: 0
 chanceToEat:
   Lynx: 0
   Wolf: 0
@@ -14,7 +12,7 @@ chanceToEat:
   Bear: 0
   Sheep: 0
   Rabbit: 90
-  Mouse: 90
+  Mouse: 100
   Horse: 0
   Hoatzin: 50
   Goat: 0
@@ -22,4 +20,5 @@ chanceToEat:
   Deer: 0
   Caterpillar: 0
   Buffalo: 0
-  Plant:
+  Eagle: 0
+  Plant: 0

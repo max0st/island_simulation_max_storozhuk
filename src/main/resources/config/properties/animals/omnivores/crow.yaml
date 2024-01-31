@@ -1,15 +1,14 @@
-weight: 2
+weight: 2.0
 maxAnimalsPerCell: 25
 movementSpeed: 3
 foodRequiredForSaturation: 0.25
-maxAge: 15
-maxPackNumber: 5
 chanceToEat:
+  Fox: 0
   Lynx: 0
   Wolf: 0
   Eagle: 10
   Boa: 0
-  Crow: 40
+  Crow: 0
   Boar: 0
   Bear: 0
   Sheep: 0

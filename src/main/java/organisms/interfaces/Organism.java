@@ -1,4 +1,4 @@
 package organisms.interfaces;
 
-public interface Organism extends Reproducible {
+public interface Organism extends Reproducible{
 }

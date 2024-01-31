@@ -1,23 +1,2 @@
 weight: 1
 maxPlantsPerCell: 200
-movementSpeed: 0
-foodRequiredForSaturation: 0.0
-chanceToEat:
-  Lynx: 0
-  Wolf: 0
-  Fox: 0
-  Boa: 0
-  Crow: 0
-  Eagle: 0
-  Bear: 0
-  Sheep: 0
-  Boar: 0
-  Mouse: 0
-  Horse: 0
-  Rabbit: 0
-  Goat: 0
-  Duck: 0
-  Deer: 0
-  Caterpillar: 0
-  Buffalo: 0
-  Plant: 0

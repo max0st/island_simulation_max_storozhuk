@@ -1,9 +1,7 @@
-weight: 2
+weight: 2.0
 maxAnimalsPerCell: 150
 movementSpeed: 2
 foodRequiredForSaturation: 0.45
-maxAge: 10
-maxPackNumber: 0
 chanceToEat:
   Lynx: 0
   Wolf: 0
@@ -22,4 +20,5 @@ chanceToEat:
   Deer: 0
   Caterpillar: 0
   Buffalo: 0
+  Rabbit: 0
   Plant: 100

@@ -1,6 +1,8 @@
 package organisms.interfaces;
 
+import simulation.gamefield.Cell;
+
+
 public interface Reproducible {
-    boolean canReproduce();
-    Organism reproduce();
+    void reproduce(Cell cell);
 }

@@ -1,4 +1,4 @@
-package organisms.enums;
+package common.enums;
 
 public enum Gender {
     MALE,

@@ -1,6 +1,17 @@
 package organisms.animals.predators;
 
-import organisms.interfaces.Flyable;
+import common.annotations.ConfigPath;
+import lombok.Getter;
+import lombok.ToString;
 
-public class Eagle extends Predator implements Flyable {
+@ToString(callSuper = true)
+@Getter
+@ConfigPath(filePath = "config/properties/animals/predators/eagle.yaml")
+public class Eagle extends Predator {
+    private volatile static int count = 0;
+    private final String UID = "EGL" + count;
+
+    public Eagle() {
+        count++;
+    }
 }
